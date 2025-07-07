@@ -8,7 +8,15 @@ I'm always learning and trying to improve my skills.
 
 You can check out my projects below 👇
 
-Skills: Flutter & Dart , Firebase, Supabase, REST APIs, UI/UX Design, Local Storage,State Management: Bloc, Cubit, Provider, AI Translation 
+Skills: 
+*Flutter & Dart
+* Firebase
+* Supabase
+* REST APIs
+* UI/UX Design
+* Local Storage
+* State Management: Bloc, Cubit, Provider
+* AI Translation 
 
 - 🔭 I’m currently working on this page. 
 
