@@ -1,17 +1,17 @@
-## Hi there 👋
-### test1 
-#hu
-<!--
-**reemmohmed/ReemMohmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋, I 'm ReemMohamed 
+#### A passionate Software developer from Egypt
+![A passionate Software developer from Egypt](https://codemylab.b-cdn.net/wp-content/uploads/2024/02/flutter.jpg)
 
-Here are some ideas to get you started:
+I'm a Flutter developer who enjoys building beautiful and useful mobile apps.
+I love working with Flutter, Firebase, Supabase, and clean UI designs.
+I'm always learning and trying to improve my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can check out my projects below 👇
+
+Skills: Flutter & Dart , Firebase, Supabase, REST APIs, UI/UX Design, Local Storage,State Management: Bloc, Cubit, Provider, AI Translation 
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
