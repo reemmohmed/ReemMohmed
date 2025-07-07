@@ -9,6 +9,7 @@ I'm always learning and trying to improve my skills.
 You can check out my projects below 👇
 
 Skills: 
+
 *Flutter & Dart
 * Firebase
 * Supabase
